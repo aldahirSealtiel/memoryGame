@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="pressed_color">#FF0000</color> <!-- Rojo cuando está presionado -->
+    <color name="focused_color">#00FF00</color> <!-- Verde cuando está enfocado -->
+    <color name="default_color">#0000FF</color> <!-- Azul por defecto -->
+
+    <color name="retroTextColor">#00FF00</color> <!-- Verde brillante -->
+    <color name="retroBackground">#000000</color> <!-- Negro -->
+    <color name="colorPrimary">#303F9F</color>
+    <color name="colorPrimaryDark">#1C2833</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+</resources>
